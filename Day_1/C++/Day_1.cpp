@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    string  c;
+    char  c;
 
     cout << "Enter an alphabet: ";
     cin >> c;
