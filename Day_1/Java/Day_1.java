@@ -38,5 +38,6 @@ public class Day_1 {
         } else {
             System.out.println("Invalid Input");
         }
+        sc.close();
     }
 }
