@@ -22,5 +22,6 @@ class Day_4
             System.out.println("Negative number ");
             
         }
+        sc.close();
     }
 }
