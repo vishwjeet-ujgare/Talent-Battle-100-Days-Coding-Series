@@ -10,7 +10,7 @@ class Day_3{
   
         System.out.println((int)ch);
 
-
+sc.close();
 
 
     }
