@@ -1,2 +1,3 @@
-<h2 style="text-align:center;">Talent-Battle-100-Days-Coding-Series.</h2>
-100 Days Coding Series Course Hello &amp; welcome to the 100 Days Coding Series Course by Talent Battle!  Every day one coding statement will be uploaded in this course.
+<h2>Talent-Battle-100-Days-Coding-Series.</h2>
+
+<h3>Here I am uploding every day the solution for the Coding Statements Provided by the Talent Battle. for 100 days!</h3>
