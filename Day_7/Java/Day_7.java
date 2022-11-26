@@ -2,15 +2,8 @@
 // Day 7 coding Statement: 
 // Write a program to find Number of days in a given month of a given year
 /*
- * Jan =31
- * Feb 28 if year is leap other wise 29
- * march=31
- * april=30
- * may=31
- * -
- * -
- * -
- *dec=31
+ * Jan =31 , Feb 28 if year is leap other wise 29
+ * march=31, april=30, may=31, -, -, -,dec=31
  */
 import java.util.Scanner;
 
