@@ -7,11 +7,8 @@ Here I will be uploding every day the solution for the Coding Statements Provide
         <ul>
             <li>C++</li>
              <li>Java</li>
-            
         </ul>
-    </li>
-    
-    
+    </li>    
     <li>Day 2 : Coding Statement: Write a program to identify if the character is an alphabet or not.</li>
     <li>Day 3 : Write a program to find ASCII values of a character.</li>
     <li>Day 4 : Write a program to identify of the a number is positive or negative.</li>
