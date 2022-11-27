@@ -66,3 +66,8 @@ Here I will be uploding every day the solution for the Coding Statements Provide
   <li>Day 11: Write a program to find Fibonacci series up to n.<br> Solved In 
         <ol><li>Java</li>
             </ol></li></ul>
+<hr>
+  <li>Day 12:Write a program to find Sum of digits of a number.<br> Solved In 
+        <ol><li>Java</li>
+            </ol></li></ul>
+
