@@ -4,6 +4,7 @@ Here I will be uploding every day the solution for the Coding Statements Provide
 <h2>Coding Statements</h2>
   <ul>
     <li>Day 1 : Write a program to print "Welcome to Talent Battle" on the output screen.
+      <p><b>Solved In </b></P>
         <ul>
             <li>C++</li>
              <li>Java</li>
