@@ -13,7 +13,7 @@ Here I will be uploding every day the solution for the Coding Statements Provide
     <li>Day 8 : Write a program to find roots of a quadratic equation.</li>
     <li>Day 9 : Write a program to find Number of digits in an integer.</li>
     <li>Day 10: Write a program to find Factorial of a number.
-        <ul>Write a program to find Factorial of a number by using Recursion</ul>
+        <ul><li>Write a program to find Factorial of a number by using Recursion</li></ul>
     </li>
     
     <li>Day 11: Write a program to find Fibonacci series up to n.</li>
