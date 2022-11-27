@@ -55,14 +55,10 @@ Here I will be uploding every day the solution for the Coding Statements Provide
             <li>Java</li>
          </ol>
       </li>
-      <li>
-          <ul>  
-            <li>Write a program to find Factorial of a number by using Recursion.<br> Solved In 
+      <li>Write a program to find Factorial of a number by using Recursion.<br> Solved In 
                 <ol>
                     <li>Java</li>
                 </ol>
-            </li>
-          </ul>
       </li>
     </ol>
   </li>
