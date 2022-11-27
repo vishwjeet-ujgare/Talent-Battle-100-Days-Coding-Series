@@ -8,19 +8,22 @@ Here I will be uploding every day the solution for the Coding Statements Provide
             <li>C++</li>
              <li>Java</li>
         </ol>
-    </li>  
+    </li> 
+  <hr>
     <li>Day 2 : Coding Statement: Write a program to identify if the character is an alphabet or not.<br> Solved In 
         <ol><li>C</li>
             <li>C++</li>
             <li>Java</li>
         </ol></li>
+  <hr>
     <li>Day 3 : Write a program to find ASCII values of a character.<br> Solved In 
         <ol><li>C</li>
             <li>C++</li>
             <li>Java</li>
             <li>Python</li>
         </ol></li>
-   <li>Day 4 : Write a program to identify of the a number is positive or negative.<br> Solved In 
+  <hr>
+  <li>Day 4 : Write a program to identify of the a number is positive or negative.<br> Solved In 
         <ol><li>Java</li></ol></li>
     <li>Day 5 : Write a program to identify if the number is even or odd.<br> Solved In 
         <ol><li>C</li>
