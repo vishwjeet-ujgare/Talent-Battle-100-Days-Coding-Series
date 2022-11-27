@@ -15,8 +15,17 @@ Here I will be uploding every day the solution for the Coding Statements Provide
             <li>C++</li>
              <li>Java</li>
         </ol></li>
-    <li>Day 3 : Write a program to find ASCII values of a character.</li>
-    <li>Day 4 : Write a program to identify of the a number is positive or negative.</li>
+    <li>Day 3 : Write a program to find ASCII values of a character.<br> Solved In 
+        <ol>
+           <li>C</li>
+            <li>C++</li>
+             <li>Java</li>
+          <li>Python</li>
+        </ol></li>
+    <li>Day 4 : Write a program to identify of the a number is positive or negative.<br> Solved In 
+        <ol>
+             <li>Java</li>
+        </ol></li>
     <li>Day 5 : Write a program to identify if the number is even or odd.</li>
     <li>Day 6 : Write a program to find the Quadrants in which coordinates lie.</li>
     <li>Day 7 : Write a program to find Number of days in a given month of a given year.</li>
