@@ -9,7 +9,12 @@ Here I will be uploding every day the solution for the Coding Statements Provide
              <li>Java</li>
         </ol>
     </li>    
-    <li>Day 2 : Coding Statement: Write a program to identify if the character is an alphabet or not.</li>
+    <li>Day 2 : Coding Statement: Write a program to identify if the character is an alphabet or not.<br> Solved In 
+        <ol>
+           <li>C</li>
+            <li>C++</li>
+             <li>Java</li>
+        </ol></li>
     <li>Day 3 : Write a program to find ASCII values of a character.</li>
     <li>Day 4 : Write a program to identify of the a number is positive or negative.</li>
     <li>Day 5 : Write a program to identify if the number is even or odd.</li>
