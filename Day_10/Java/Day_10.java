@@ -22,7 +22,6 @@ public class Day_10 {
       for (int i = num; i >= 1; i--) {
          fact = fact * i;
       }
-
       System.out.println("Factorial of number " + temp + " : " + fact);
       sc.close();
    }
