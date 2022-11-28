@@ -69,5 +69,9 @@ Here I will be uploding every day the solution for the Coding Statements Provide
 <hr>
   <li>Day 12:Write a program to find Sum of digits of a number.<br> Solved In 
         <ol><li>Java</li>
+            </ol></li>
+<hr>
+  <li>Day 13: Write a program to find Sum of N natural numbers<br> Solved In 
+        <ol><li>Java</li>
             </ol></li></ul>
 
