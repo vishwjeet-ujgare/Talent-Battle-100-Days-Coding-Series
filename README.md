@@ -75,7 +75,7 @@ Here I will be uploding every day the solution for the Coding Statements Provide
         <ol><li>Java</li>
             </ol></li>
 <hr>
-  <li>Day 13: Write a program to reverse a given number<br> Solved In 
+  <li>Day 14: Write a program to reverse a given number<br> Solved In 
         <ol><li>Java</li>
             </ol></li>
             </ul>
