@@ -78,5 +78,9 @@ Here I will be uploding every day the solution for the Coding Statements Provide
   <li>Day 14: Write a program to reverse a given number<br> Solved In 
         <ol><li>Java</li>
             </ol></li>
+ <hr>
+  <li>Day 15:  Write a program to identify if the number is Strong number or not<br> Solved In 
+        <ol><li>Java</li>
+            </ol></li>
             </ul>
 
