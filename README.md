@@ -90,5 +90,17 @@ Here I will be uploding every day the solution for the Coding Statements Provide
   <li>Day 17: Write a program to find the Factors of a number<br> Solved In 
         <ol><li>Java</li>
             </ol></li>
+           <hr>
+  <li>Day 18:  Write a program to Add two fractions<br> Solved In 
+        <ol><li>Java</li>
+            </ol></li>
+            <hr>
+  <li>Day 19:Write a program to identify if the number is Armstrong number or not<br> Solved In 
+        <ol><li>Java</li>
+            </ol></li>
+            <hr>
+  <li>Day 20: Write a program to identify if the number is Prime number or not<br> Solved In 
+        <ol><li>Java</li>
+            </ol></li>
             </ul>
 
