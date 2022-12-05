@@ -100,8 +100,6 @@ Here I will be uploding every day the solution for the Coding Statements Provide
             </ol></li>
             <hr>
   <li>Day 20: Write a program to identify if the number is Prime number or not<br> Solved In 
-        <ol><li>Java</li>[VishwjeetDay_20.pdf](https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10155186/VishwjeetDay_20.pdf)
-
-            </ol></li>
+    <ol><li>Java <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10155186/VishwjeetDay_20.pdf">Download Day 20 PDF file</a></li></ol></li>
             </ul>
 
