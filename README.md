@@ -96,8 +96,7 @@ Here I will be uploding every day the solution for the Coding Statements Provide
             </ol></li>
             <hr>
   <li>Day 19:Write a program to identify if the number is Armstrong number or not<br> Solved In 
-        <ol><li>Java -> <a href="[VishwjeetDay19.pdf](https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10155201/VishwjeetDay19.pdf)
-">Download PDF file</a></li>
+        <ol><li>Java -> <a href="[VishwjeetDay19.pdf](https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10155201/VishwjeetDay19.pdf)">Download PDF file</a></li>
             </ol></li>
             <hr>
   <li>Day 20: Write a program to identify if the number is Prime number or not<br> Solved In 
