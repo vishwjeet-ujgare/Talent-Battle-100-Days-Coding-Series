@@ -12,6 +12,7 @@ public class Day_20 {
 	if(num==1)
 	{
 		System.out.println(num+" is not a Prime number.");
+		sc.close();
 		return ;
 	}
 	else
@@ -38,6 +39,6 @@ public class Day_20 {
 	}
 	
 
-        
+        sc.close();
     }
 }
