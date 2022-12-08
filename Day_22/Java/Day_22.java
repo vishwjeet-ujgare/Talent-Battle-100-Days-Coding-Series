@@ -22,17 +22,19 @@ public class Day_22 {
 
                 for (int k = i; k <= num; k++) {
                     boolean isPrime1 = true;
-                    for (int l = 2; l <= k/2; l++) {
+                    for (int l = 2; l <= k / 2; l++) {
                         if (k % l == 0) {
                             isPrime1 = false;
                             break;
                         }
                     }
                     if (isPrime1 && (i + k == num)) {
-                        System.out.println(num+" can be expressd as "+i + " + " + k + " = " + num);
+                        System.out.println(num + " can be expressd as " + i + " + " + k + " = " + num);
                     }
                 }
             }
         }
+        sc.close();
+
     }
 }

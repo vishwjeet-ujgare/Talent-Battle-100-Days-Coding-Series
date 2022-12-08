@@ -30,5 +30,8 @@ public class Day_22_02 {
         
         if (flag == 0)
             System.out.println(num + " cannot be expressed as the sum of two primes");
+            sc.close();
     }
+    
+
 }
