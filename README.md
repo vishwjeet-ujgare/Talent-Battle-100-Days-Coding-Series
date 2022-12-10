@@ -88,7 +88,8 @@ Here I will be uploding every day the solution for the Coding Statements Provide
             </ol></li>
          <hr>
   <li>Day 17: Write a program to find the Factors of a number<br> Solved In 
-        <ol><li>Java -><a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10155226/Vishwjeet_Day_17.pdf">Download PDF file</a> </li>
+        <ol><li>Java -><a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10155226/Vishwjeet_Day_17.pdf">Download PDF file</a> 
+          </li>
             </ol></li>
            <hr>
   <li>Day 18:  Write a program to Add two fractions<br> Solved In 
@@ -100,6 +101,16 @@ Here I will be uploding every day the solution for the Coding Statements Provide
             </ol></li>
             <hr>
   <li>Day 20: Write a program to identify if the number is Prime number or not<br> Solved In 
-    <ol><li>Java <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10155186/VishwjeetDay_20.pdf">Download Day 20 PDF file</a></li></ol></li>
-            </ul>
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10155186/VishwjeetDay_20.pdf">Download PDF file</a>
+      </li></ol></li>
+     <hr>
+  <li>Day 21: Write a program to identify if the number is Palindrome or not<br> Solved In 
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10188087/VishwjeetDay21.pdf">Download PDF file</a></li></ol></li>
+     <hr>
+  <li>Day 22:Write a program to express a number as a sum of two prime numbers<br> Solved In 
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10188130/VishwjeetDay_22.pdf">Download PDF file</a></li></ol></li>
+     <hr>
+  <li>Day 23:Write a program to Replace all 0’s with 1 in a given integer<br> Solved In 
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10188081/VishwjeetDay23.pdf">Download PDF file</a></li></ol></li></ul>
             
+
