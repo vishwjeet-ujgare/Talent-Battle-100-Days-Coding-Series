@@ -114,7 +114,10 @@ Here I will be uploding every day the solution for the Coding Statements Provide
     <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10188081/VishwjeetDay23.pdf">Download PDF file</a></li></ol></li>
         <hr>
   <li>Day 24:Write a program to print Pyramid pattern using stars<br> Solved In 
-    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10199363/VishwjeetDay24.docx.pdf">Download PDF file</a></li></ol></li
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10199363/VishwjeetDay24.docx.pdf">Download PDF file</a></li></ol></li>
+          <hr>
+  <li>Day 25:Write a program to find Area of a circle<br> Solved In 
+    <ol><li>Java -> <a href="">Download PDF file</a></li></ol></li>
     </ul>
             
 
