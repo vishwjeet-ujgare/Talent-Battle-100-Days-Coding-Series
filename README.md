@@ -111,6 +111,10 @@ Here I will be uploding every day the solution for the Coding Statements Provide
     <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10188130/VishwjeetDay_22.pdf">Download PDF file</a></li></ol></li>
      <hr>
   <li>Day 23:Write a program to Replace all 0’s with 1 in a given integer<br> Solved In 
-    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10188081/VishwjeetDay23.pdf">Download PDF file</a></li></ol></li></ul>
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10188081/VishwjeetDay23.pdf">Download PDF file</a></li></ol></li>
+        <hr>
+  <li>Day 24:Write a program to print Pyramid pattern using stars<br> Solved In 
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10199363/VishwjeetDay24.docx.pdf">Download PDF file</a></li></ol></li
+    </ul>
             
 
