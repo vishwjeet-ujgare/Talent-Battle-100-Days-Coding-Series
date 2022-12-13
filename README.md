@@ -118,6 +118,11 @@ Here I will be uploding every day the solution for the Coding Statements Provide
           <hr>
   <li>Day 25:Write a program to find Area of a circle<br> Solved In 
     <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10200423/VishwjeetDay25.pdf">Download PDF file</a></li></ol></li>
+    <hr>
+  <li>Day 26: Write a program to calculate Maximum number of handshakes<br> Solved In 
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10208454/VishwjeetDay_26.pdf">Download PDF file</a></li></ol></li>
+     <hr>
+  <li>Day 27:  Write a program to find the double of the given number without using arithmetic operator<br> Solved In 
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10208452/VishwjeetDay_27.pdf">Download PDF file</a></li></ol></li>
     </ul>
             
-
