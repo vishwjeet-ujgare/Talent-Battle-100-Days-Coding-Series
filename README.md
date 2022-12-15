@@ -124,5 +124,9 @@ Here I will be uploding every day the solution for the Coding Statements Provide
      <hr>
   <li>Day 27:  Write a program to find the double of the given number without using arithmetic operator<br> Solved In 
     <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10208452/VishwjeetDay_27.pdf">Download PDF file</a></li></ol></li>
+      <hr>
+  <li>Day 28:  Write a Program to reverse a string.<br> Solved In 
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10218859/VishwjeetDay28.pdf">Download PDF file</a></li></ol></li>
     </ul>
-            
+           
+
