@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-import javax.swing.text.StyledEditorKit;
 public class Day_29 {
  public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
