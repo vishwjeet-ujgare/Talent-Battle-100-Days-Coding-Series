@@ -23,7 +23,7 @@ public class Day_32 {
     }
 
     public static boolean isVowel(char ch) {
-        char [] arr={'a','e','i','o','u'};
+        char [] arr={'a','e','i','o','u','A','E','I','O','U'};
         boolean isVowel=false;
         for(int i =0;i<arr.length;i++)
         {
