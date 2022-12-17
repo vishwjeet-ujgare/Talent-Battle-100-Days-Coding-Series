@@ -26,6 +26,7 @@ public class Day_31 {
                 returnStr+=Character.toUpperCase(ch);
             }
         }
+        
         return returnStr;
     } 
 }
