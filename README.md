@@ -127,6 +127,21 @@ Here I will be uploding every day the solution for the Coding Statements Provide
       <hr>
   <li>Day 28:  Write a Program to reverse a string.<br> Solved In 
     <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10218859/VishwjeetDay28.pdf">Download PDF file</a></li></ol></li>
+         <hr>
+  <li>Day 29:  Write a Program to concatenate a string..<br> Solved In 
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10251800/VishwjeetDay29.pdf">Download PDF file</a></li></ol></li>
+         <hr>
+  <li>Day 30:  Write a Program to print Length of the string without using strlen() function.<br> Solved In 
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10251812/VishwjeetDay_30.pdf">Download PDF file</a></li></ol></li>
+         <hr>
+  <li>Day 31:  Write a Program to Toggle each character in a string<br> Solved In 
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10251815/VishwjeetDay_31.pdf">Download PDF file</a></li></ol></li>
+         <hr>
+  <li>Day 32:  Write a Program to Remove vowels from a string.<br> Solved In 
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10251816/VishwjeetDay_32.pdf">Download PDF file</a></li></ol></li>
     </ul>
-           
+
+
+
+
 
