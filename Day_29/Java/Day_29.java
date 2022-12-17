@@ -12,7 +12,7 @@ public class Day_29 {
     String str2=sc.nextLine();
 
     System.out.println(str1+str2);
-
+sc.close();
 
  }
 }
