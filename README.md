@@ -138,10 +138,7 @@ Here I will be uploding every day the solution for the Coding Statements Provide
     <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10251815/VishwjeetDay_31.pdf">Download PDF file</a></li></ol></li>
          <hr>
   <li>Day 32:  Write a Program to Remove vowels from a string.<br> Solved In 
-    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10251816/VishwjeetDay_32.pdf">Download PDF file</a></li></ol></li>
+    <ol><li>Java -> <a href="https://github.com/vishwjeet-ujgare/Talent-Battle-100-Days-Coding-Series/files/10251825/VishwjeetDay_32.pdf">Download PDF file</a></li></ol></li>
     </ul>
-
-
-
 
 
