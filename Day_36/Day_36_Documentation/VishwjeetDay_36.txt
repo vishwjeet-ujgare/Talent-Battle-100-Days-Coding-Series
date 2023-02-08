@@ -1,0 +1,33 @@
+Day 36 coding Statement : 
+Write a Program to Capitalize the first and last letter of each word of a string
+Description
+Get a string from the user and then change the first and last letter to uppercase.
+Input
+programming
+Output
+ProgramminG
+--------------------------------------------------------------------
+Code :
+import java.util.Scanner;
+
+public class Day_36 {
+    public static void main(String[] args) {
+        System.out.print("Enter a String : ");
+        Scanner sc=new Scanner(System.in);
+        String str=sc.next();
+int l=str.length();
+        String mStr=str.substring(1,l-1);
+    System.out.println(Character.toString(str.charAt(0)).toUpperCase()+mStr+Character.toString(str.charAt(l-1)).toUpperCase());
+
+    }
+}
+--------------------------------------------------------
+Output :
+Enter a String : Programming
+ProgramminG
+
+Enter a String : Hello
+HellO
+
+Enter a String : vishwjeet
+VishwjeeT
